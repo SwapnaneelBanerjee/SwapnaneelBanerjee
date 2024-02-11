@@ -1,5 +1,6 @@
 ### Hi there 👋
 It's Neel, here to explore
+📫 How to reach me: iamneelbanerjee80@gmail.com
 
 <!--
 **SwapnaneelBanerjee/SwapnaneelBanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
