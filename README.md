@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swapnaneel</h1>
+<h1 align="center">Hello! I'm Swapnaneel</h1>
 <h3 align="center">an Artist, Designer, and Developer with a BTech in CSE(AI/ML)</h3>
 
 - I’m currently working on **AI/ML projects**
