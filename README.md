@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Swapnaneel</h1>
 <h3 align="center">an Artist, Designer, and Developer with a BTech in CSE(AI/ML)</h3>
 
-- I’m currently working on **AI/ML projects**
+- I’m currently working on **Selenium using Java**
 
-- I’m currently learning **React**
+- I’m currently learning **Automation Testing**
 
 - 📫 How to reach me **iamneelbanerjee80@gmail.com**
 
